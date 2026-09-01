@@ -183,4 +183,3 @@ async def send_warmup_step(
 
 async def send_error(bot: Bot, chat_id: int) -> None:
     await _send_text(bot, chat_id, texts.ERROR_MESSAGE)
-/
