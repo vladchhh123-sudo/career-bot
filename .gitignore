@@ -1,0 +1,17 @@
+# Секреты
+.env
+
+# Кэши Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Локальные данные бота (состояние пользователей)
+data/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
